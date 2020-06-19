@@ -12,3 +12,6 @@ App must be written in C#
 Source code must be delivered to client
 
 Maintenance and new features to be handled by client’s nephew.
+
+
+https://trello.com/b/2g6blqvF/chello-world-hello-user-hello-everybody
