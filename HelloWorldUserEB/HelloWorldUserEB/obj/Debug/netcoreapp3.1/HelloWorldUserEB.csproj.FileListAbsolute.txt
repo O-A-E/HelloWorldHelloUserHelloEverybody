@@ -1,0 +1,12 @@
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/bin/Debug/netcoreapp3.1/HelloWorldUserEB.deps.json
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/bin/Debug/netcoreapp3.1/HelloWorldUserEB.runtimeconfig.json
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/bin/Debug/netcoreapp3.1/HelloWorldUserEB.runtimeconfig.dev.json
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/bin/Debug/netcoreapp3.1/HelloWorldUserEB.dll
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/bin/Debug/netcoreapp3.1/HelloWorldUserEB.pdb
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.csprojAssemblyReference.cache
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.AssemblyInfoInputs.cache
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.AssemblyInfo.cs
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.csproj.CoreCompileInputs.cache
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.dll
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.pdb
+/Users/Sase/Documents/GitHub/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/Debug/netcoreapp3.1/HelloWorldUserEB.genruntimeconfig.cache
