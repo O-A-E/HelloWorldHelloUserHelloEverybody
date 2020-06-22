@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Sase/.dotnet/store/|arch|/|tfm|",
+      "/Users/Sase/.nuget/packages"
+    ]
+  }
+}

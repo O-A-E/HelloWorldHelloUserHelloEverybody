@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{66301974-68CA-4D01-83DC-672124FC9A03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../HelloWorldUserEB/Program.cs">
+    <Files>
+      <File FileName="../HelloWorldUserEB/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test_HelloWorld" expanded="True">
+            <Node name="HelloWorldUserEB" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Test_HelloWorld" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Test_HelloWorld" expanded="True" selected="True">
+            <Node name="Test_HelloWorld" expanded="True">
+              <Node name="Test_HelloWorld" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorldUserEB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
